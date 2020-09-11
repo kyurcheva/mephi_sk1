@@ -1,2 +1,4 @@
 Hello, its me!
+Remote repository is ready!
 Again on branch master!
+
