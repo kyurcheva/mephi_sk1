@@ -1,1 +1,2 @@
 Hello, its me!
+Remote repository is ready!
